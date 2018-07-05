@@ -1,0 +1,19 @@
+body{
+    background-color: white;
+}
+
+
+#thecat {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+#applefritter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%
+}
+
